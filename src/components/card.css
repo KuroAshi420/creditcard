@@ -1,0 +1,60 @@
+.card-main{
+height: 200px;
+width: 350px;
+border: 1px solid transparent;
+background-color:#124164;
+padding: 30px 30px;
+border-radius: 7px;
+}
+.company-Name{
+    color: white;
+    position: relative;
+    left: 160px;
+    font-size: 30px;
+    top: -10px
+}
+.puce-logo{
+    width: 50px; 
+    position: relative;
+    top: -15px;
+    right: 10px; 
+}
+.card-number{
+    color: white;
+    position: relative;
+    top: 1px;
+    right: 10px;
+    font-size: 22px;
+}
+.card-Validthru{
+    position: relative;
+    top: 25px;
+    left: 160px;
+    color: white;
+    font-size: 20px;
+}
+.master-logo{
+    width: 250px; 
+    position: relative;
+    top: -20px;
+    left: 170px; 
+}
+.card-Name{
+    color: white;
+    position: relative;
+    top: -64px;
+    right: 10px;
+    font-size: 22px;
+}
+.fname{
+    width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-main{
+    display: flex;
+    flex-direction: column;
+}
